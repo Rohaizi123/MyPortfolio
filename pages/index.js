@@ -10,10 +10,10 @@ export default function Home() {
 					<div className='lg:w-4/6 mx-auto'>
 						<div className='flex flex-col sm:flex-row mt-10'>
 							<div className='sm:w-1/3 text-center sm:pr-8 sm:py-8'>
-								<div className='inline-flex items-center justify-center rounded-md bg-gray-200 text-gray-400'>
+								<div className='inline-flex items-center justify-center text-gray-400'>
 									<img
-										className='w-18 md:w-35 lg:w-48 rounded-md'
-										src='/profile.png'
+										className='rounded-full w-40 md:w-35 lg:w-48'
+										src='/profile-2.jpg'
 										layout='fixed'
 									/>
 								</div>
@@ -24,7 +24,7 @@ export default function Home() {
 									<p className='text-base'>
 										Front End Web Developer
 									</p>
-									<span className='inline-flex items-center justify-center px-3 py-1 mt-2 text-sm font-normal leading-none text-red-100 bg-blue-600 rounded-full'>
+									<span className='inline-flex items-center justify-center px-3 py-1 mt-1 text-sm font-normal leading-none text-red-100 bg-blue-600 rounded-full'>
 										Curriculum Vitae
 									</span>
 									{/* <span className="inline-flex  sm:mt-4 mt-4  sm:justify-center">
