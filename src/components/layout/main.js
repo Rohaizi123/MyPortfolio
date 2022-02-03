@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Navbar from "../navbar/navbar";
+import Footer from "../footer/footer";
 
 function Layout({ children }) {
   return (
@@ -7,8 +8,9 @@ function Layout({ children }) {
       <Head>
         <title>Rohaizi Mohamed</title>
       </Head>
-      <Navbar/>
+      <Navbar />
       {children}
+      {/* <Footer /> */}
     </div>
   );
 }

@@ -12,7 +12,7 @@ function Experience() {
                   FRONT END WEB DEVELOPER
                 </span>
                 <span className="mt-1 text-gray-500 text-sm">
-                  2 Dec 2019 - Until Now
+                  2 Dec 2019 - Present
                 </span>
               </div>
               <div className="md:flex-grow">
@@ -20,10 +20,12 @@ function Experience() {
                   Technerve Technology Solutions Sdn Bhd
                 </h2>
                 <p className="leading-relaxed">
-                  Glossier echo park pug, church-key sartorial biodiesel
-                  vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
-                  moon party messenger bag selfies, poke vaporware kombucha
-                  lumbersexual pork belly polaroid hoodie portland craft beer.
+                  Develop web applications for crowdfunding and GIS
+                  (Geographical Information System) use Laravel web framework.
+                  Vue Js framework also had been used for complicated user
+                  interface. Collaborate with design team using Figma and other
+                  development teams using GitLab and also Linear as issue
+                  tracking tools.
                 </p>
               </div>
             </div>
@@ -41,10 +43,14 @@ function Experience() {
                   Aeronerve Sdn Bhd
                 </h2>
                 <p className="leading-relaxed">
-                  Glossier echo park pug, church-key sartorial biodiesel
-                  vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf
-                  moon party messenger bag selfies, poke vaporware kombucha
-                  lumbersexual pork belly polaroid hoodie portland craft beer.
+                  I'm trained to use Laravel Web Framework to involve in
+                  development team for develop web application. Assigned to
+                  prepare software requirement analysis for start-up GIS
+                  (Geographical Information System) project and involved in
+                  creating user interfaces and low fidelity and high fidelity
+                  prototype. Apart from that, I'm also involved in drone
+                  technical team and participate in many projects that using
+                  drone such as land mapping, land mining, and agriculture.
                 </p>
               </div>
             </div>
