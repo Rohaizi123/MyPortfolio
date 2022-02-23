@@ -33,6 +33,7 @@ function Project() {
 							src='/ikhlas.gif'
 							width={500}
 							height={250}
+							priority
 						/>
 					</div>
 					<div className='md:w-3/5 md:pl-6 my-2'>
@@ -73,6 +74,7 @@ function Project() {
 							src='/kitabantu.gif'
 							width={500}
 							height={250}
+							priority
 						/>
 					</div>
 					<div className='md:w-3/5 md:pl-6 my-2'>
@@ -113,6 +115,7 @@ function Project() {
 							src='/terrabina.gif'
 							width={500}
 							height={250}
+							priority
 						/>
 					</div>
 					<div className='md:w-3/5 md:pl-6 my-2'>
@@ -157,6 +160,7 @@ function Project() {
 							src='/todo-app.gif'
 							width={500}
 							height={250}
+							priority
 						/>
 					</div>
 					<div className='md:w-3/5 md:pl-6 my-2'>
@@ -173,7 +177,7 @@ function Project() {
 							deletes it. This system also can count the remaining
 							task and sort the task.
 						</p>
-						<span className='mt-2'>
+						<span className='mt-3'>
 							Github :
 							<a
 								className='underline underline-offset-1 text-blue-700'
