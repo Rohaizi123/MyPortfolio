@@ -17,17 +17,17 @@ function Experience() {
 							</div>
 							<div className='md:flex-grow'>
 								<h2 className='text-xl font-normal text-gray-900 title-font mb-2'>
-									Technerve Technology Solutions Sdn Bhd
+									Aeronerve - Unmanned Aerial Solutions
 								</h2>
 								<p className='leading-relaxed'>
 									Develop web applications for crowdfunding
-									and GIS (Geographical Information System)
-									use Laravel web framework. Vue Js framework
-									also had been used for complicated user
-									interface. Collaborate with design team
-									using Figma and other development teams
-									using GitLab and also Linear as issue
-									tracking tools.
+									platforms and GIS (Geographical Information
+									System) using the Laravel web framework. Vue
+									Js framework also had been used for the
+									complicated user interfaces. Collaborate
+									with design team using Figma and other
+									development teams using GitLab and also
+									Linear as issue tracking tools.
 								</p>
 							</div>
 						</div>
@@ -42,7 +42,7 @@ function Experience() {
 							</div>
 							<div className='md:flex-grow'>
 								<h2 className='text-xl font-normal text-gray-900 title-font mb-2'>
-									Aeronerve Sdn Bhd
+									Aeronerve - Unmanned Aerial Solutions
 								</h2>
 								<p className='leading-relaxed'>
 									I'm trained to use Laravel Web Framework to
