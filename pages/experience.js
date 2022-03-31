@@ -23,9 +23,9 @@ function Experience() {
 									Develop web applications for crowdfunding
 									platforms and GIS (Geographical Information
 									System) using the Laravel web framework. Vue
-									Js framework also had been used for the
+									Js framework also had been used for
 									complicated user interfaces. Collaborate
-									with design team using Figma and other
+									with the design team using Figma and other
 									development teams using GitLab and also
 									Linear as issue tracking tools.
 								</p>
@@ -46,16 +46,17 @@ function Experience() {
 								</h2>
 								<p className='leading-relaxed'>
 									I'm trained to use Laravel Web Framework to
-									involve in development team for develop web
-									application. Assigned to prepare software
-									requirement analysis for start-up GIS
-									(Geographical Information System) project
-									and involved in creating user interfaces and
-									low fidelity and high fidelity prototype.
-									Apart from that, I'm also involved in drone
-									technical team and participate in many
-									projects that using drone such as land
-									mapping, land mining, and agriculture.
+									involve in the development team for
+									developing web applications. Assigned to
+									prepare software requirement analysis for
+									start-up GIS (Geographical Information
+									System) project and involved in creating
+									user interfaces and low fidelity and high
+									fidelity prototype. Apart from that, I'm
+									also involved in the drone technical team
+									and participate in many projects that use
+									drones such as land mapping, land mining,
+									and agriculture
 								</p>
 							</div>
 						</div>
